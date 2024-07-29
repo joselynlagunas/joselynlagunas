@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Joselyn M. Lagunas # your name (or website title) here
+logo: "images/IMG_2817.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Graduate Data Science Student 
   <br><br>
-  Second description 
+  Willamette University
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.https://www.linkedin.com/in/joselyn-molina-lagunas-473587274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCiqwOf%2FnScKsEQoEuPiScQ%3D%3D">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
