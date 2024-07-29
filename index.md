@@ -1,31 +1,21 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### Coffee Bean Data
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Data on Arabica vs. Robusta Beans](pdf/coffee.pdf)
+<img src="images/1.png"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Gun Violence Data
+[Gun Violence & Social Equity](pdf/Final.pdf)
+<img src="images/2.png"/>
 
 ---
+
+
 
 
 
