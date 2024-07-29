@@ -1,13 +1,13 @@
 title: Joselyn M. Lagunas # your name (or website title) here
 logo: "images/IMG_2817.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Graduate Data Science Student | [Resume](pdf/Resume.pdf) | Email:jjmolina@willamette.edu
+  Graduate Data Science Student | Willamette University | Email:jjmolina@willamette.edu
   <br><br>
-  Willamette University
+  <a href="https://github.com/joselynlagunas/joselynlagunas.github.io/blob/f27801bb57dd46e87bf3014ab9c81716734cc0ef/pdf/Resume.pdf
+">Resume</a> 
   <br><br>
   <a href="https://www.linkedin.com/in/joselyn-molina-lagunas-473587274/">View My LinkedIn Profile</a> 
   
-
 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
