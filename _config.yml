@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Willamette University
   <br><br>
-  <a href="https://www.https://www.linkedin.com/in/joselyn-molina-lagunas-473587274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCiqwOf%2FnScKsEQoEuPiScQ%3D%3D">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/joselyn-molina-lagunas-473587274/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
